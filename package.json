@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "chromedriver": "^124.0.4"
+    "chromedriver": "^131.0.3"
   },
   "name": "debank-multiple-wallet",
   "version": "1.0.0",

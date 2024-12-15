@@ -7,14 +7,15 @@
 
 ## ✨ Features
 
--   Get Total Balance from multiple wallets
+-   Get total balance from multiple wallets
 
 
 ## 🚀 Quick Start
 
 
 ```bash
-npm install && npm start
+npm install 
+npm start
 ```
 
 ### how to change wallet sources?
@@ -27,5 +28,8 @@ edit source.json
 npm install --save-dev selenium-webdriver
 npm install --chromedriver
 npm install chromedriver --chromedriver_version=LATEST
+npm install -g npm-check-updates
+ncu -u
+npm install
 ```
 
