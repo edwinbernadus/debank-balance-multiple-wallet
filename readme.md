@@ -1,4 +1,4 @@
-# Debank Multiple Wallet
+# Debank Balance Multiple Wallet
 
 <div align="center">
   <img src="./docs/banner.jpg" alt="Banner" width="100%" />
